@@ -1,28 +1,22 @@
 {
   "games": [
     {
-      "name": "Super Bat Puncher",
-      "system": "nes",
-      "description": "Punch bats and save the world.",
-      "rom_url": "https://example.com/superbat.nes"
+      "name": "Apotris",
+      "system": "gba",
+      "description": "A classic block stacking game for GBA.",
+      "rom_url": "https://github.com/Hamuza11/suspendio-catalog/raw/refs/heads/main/Apotris.gba"
     },
     {
-      "name": "D-Pad Hero",
-      "system": "nes",
-      "description": "A rhythm game for the NES.",
-      "rom_url": "https://example.com/dpadhero.nes"
+      "name": "Super JetPak DX",
+      "system": "gbc",
+      "description": "A remake for the Game Boy Color.",
+      "rom_url": "https://github.com/Hamuza11/suspendio-catalog/raw/refs/heads/main/Super%20JetPak%20DX.gbc"
     },
     {
-      "name": "Game Boy Adventure",
-      "system": "gb",
-      "description": "An exciting adventure for the Game Boy.",
-      "rom_url": "https://example.com/gameboyadventure.gb"
-    },
-    {
-      "name": "Super SNES Racer",
-      "system": "snes",
-      "description": "A fast-paced racing game for the SNES.",
-      "rom_url": "https://example.com/supersnesracer.smc"
+      "name": "Minicraft",
+      "system": "gba",
+      "description": "Minecraft for GBA.",
+      "rom_url": "https://github.com/Hamuza11/suspendio-catalog/raw/refs/heads/main/minicraft.gba"
     }
   ]
 }
