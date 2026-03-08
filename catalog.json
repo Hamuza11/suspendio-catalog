@@ -1,0 +1,28 @@
+{
+  "games": [
+    {
+      "name": "Super Bat Puncher",
+      "system": "nes",
+      "description": "Punch bats and save the world.",
+      "rom_url": "https://example.com/superbat.nes"
+    },
+    {
+      "name": "D-Pad Hero",
+      "system": "nes",
+      "description": "A rhythm game for the NES.",
+      "rom_url": "https://example.com/dpadhero.nes"
+    },
+    {
+      "name": "Game Boy Adventure",
+      "system": "gb",
+      "description": "An exciting adventure for the Game Boy.",
+      "rom_url": "https://example.com/gameboyadventure.gb"
+    },
+    {
+      "name": "Super SNES Racer",
+      "system": "snes",
+      "description": "A fast-paced racing game for the SNES.",
+      "rom_url": "https://example.com/supersnesracer.smc"
+    }
+  ]
+}
