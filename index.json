@@ -4,19 +4,19 @@
       "name": "Apotris",
       "system": "gba",
       "description": "A classic block stacking game for GBA.",
-      "rom_url": "https://github.com/Hamuza11/suspendio-catalog/raw/refs/heads/main/Apotris.gba"
+      "rom_url": "https://hamuza11.github.io/suspendio-catalog/Apotris.gba"
     },
     {
       "name": "Super JetPak DX",
       "system": "gbc",
       "description": "A remake for the Game Boy Color.",
-      "rom_url": "https://github.com/Hamuza11/suspendio-catalog/raw/refs/heads/main/Super%20JetPak%20DX.gbc"
+      "rom_url": "https://hamuza11.github.io/suspendio-catalog/Super%20JetPak%20DX.gbc"
     },
     {
       "name": "Minicraft",
       "system": "gba",
       "description": "Minecraft for GBA.",
-      "rom_url": "https://github.com/Hamuza11/suspendio-catalog/raw/refs/heads/main/minicraft.gba"
+      "rom_url": "https://hamuza11.github.io/suspendio-catalog/minicraft.gba"
     }
   ]
 }
