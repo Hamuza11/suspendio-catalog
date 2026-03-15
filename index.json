@@ -17,6 +17,12 @@
       "system": "gba",
       "description": "Minecraft for GBA.",
       "rom_url": "https://hamuza11.github.io/suspendio-catalog/minicraft.gba"
+    },
+    {
+      "name": "Minecraft: Pi Edition Reborn",
+      "system": "ports",
+      "description": "Fun with blocks",
+      "rom_url": "https://hamuza11.github.io/suspendio-catalog/minecraft-pi-reborn-3.0.0-armhf.AppImage"
     }
   ]
 }
